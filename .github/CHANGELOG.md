@@ -96,6 +96,8 @@
 1. [A32NX/FWS] Fixed AP OFF audio playing more than 3 times - @BravoMike99 (bruno_pt99)
 1. [A380X/FWS] Fix SD page flicker when using ALL button - @matze-tech (matze2346)
 1. [A380X/RMP] Fix light bleed on RMP audio knobs - @heclak (Heclak)
+1. [A32NX/EFB] Added Departure Change Checklist to EFB - @FlyByTim (FlyByTim)
+1. [A380X/MFD] Fix CPNY F-PLN REQUEST button disabled when airport ICAO not found in failed Simbrief import - @heclak (Heclak)
 1. [A380X/FLIGHT MODEL] Improve pitch response  - @donstim (donbikes)
 
 ## 0.14.0
