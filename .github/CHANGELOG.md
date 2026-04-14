@@ -108,6 +108,7 @@
 1. [A380X/OVHD] Fix GND CTL Pushbutton activating REMOTE C/B CTL - @BravoMike99 (bruno_pt99)
 1. [A380X/MODEL] Unlink CKPT DOOR LCKG SYS and OXYGEN RESET buttons - @Jonny23787 (Jonathan)
 1. [A380X/MODEL] Match animation speed of GND HYD buttons to other overhead buttons - @Jonny23787 (Jonathan)
+1. [A380X/FLIGHT MODEL] Fix drag for MSFS 2024 native version - @donstim (donbikes)
 
 ## 0.14.0
 
