@@ -113,6 +113,7 @@
 1. [A32NX/FMS] Implement `ONLY SPD ENTRY ALLOWED` message - @BlueberryKing (BlueberryKing)
 1. [A380X/MFD] Added support for the US Units option - MikioDK (Mikio), @tracernz (Mike)
 1. [A380X/FLIGHT MODEL] Fix drag for MSFS 2024 native version - @donstim (donbikes)
+1. [A380X/FUEL SYSTEM] Fixes unbalanced fuel transfer when transfer not active for all feed tanks - @donstim (donbikes)
 
 ## 0.14.0
 
