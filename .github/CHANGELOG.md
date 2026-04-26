@@ -118,6 +118,7 @@
 1. [A380X/MFD] Added IMMEDIATE EXIT/RESUME HOLD button to the F-PLN page - @BravoMike99 (bruno_pt99)
 1. [A32NX/FWS] Add message grouping and order messages based on priority - @FozzieHi (fozzie)
 1. [FMS] Add lateral discontinuity ahead fms message - @BravoMike99 (bruno_pt99)
+1. [A32NX/FWS] Add `THR LEVERS NOT SET` master caution - @FozzieHi (fozzie)
 1. [A380X/FLIGHT MODEL] Fix drag for MSFS 2024 native version - @donstim (donbikes)
 1. [A380X/FUEL SYSTEM] Fixes unbalanced fuel transfer when transfer not active for all feed tanks - @donstim (donbikes)
 
