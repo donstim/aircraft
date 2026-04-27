@@ -119,7 +119,7 @@
 1. [A32NX/FWS] Add message grouping and order messages based on priority - @FozzieHi (fozzie)
 1. [FMS] Add lateral discontinuity ahead fms message - @BravoMike99 (bruno_pt99)
 1. [A32NX/FWS] Add `THR LEVERS NOT SET` master caution - @FozzieHi (fozzie)
-1. [A380X/FLIGHT MODEL] Improve pitch response  - @donstim (donbikes)
+1. [A380X/FLIGHT MODEL] Fight model update for MSFS 2020  - @donstim (donbikes)
 
 ## 0.14.0
 
